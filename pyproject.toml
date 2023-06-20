@@ -9,7 +9,7 @@ description = "HuBERT"
 readme = "README.md"
 requires-python = ">=3.8"
 authors =  [
-    {name = "gitmylo", email = ""},
+    {name = "gitmylo", email = "gitmylo@gitmylo.com"},
 ]
 # Apache 2.0
 license = {file = "LICENSE"}
